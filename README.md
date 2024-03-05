@@ -13,7 +13,7 @@ Printer
 Ink pen
 Steps:
 
-1. Download BIP39 Repository:
+# 1. Download BIP39 Repository:
 
 Download the BIP39 repository from https://iancoleman.io/bip39/ onto your computer.
 Save the downloaded files on USB stick 1 (USB1).
