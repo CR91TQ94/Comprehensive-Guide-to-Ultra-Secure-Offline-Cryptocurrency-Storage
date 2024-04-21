@@ -6,12 +6,12 @@ This tutorial aims to provide a step-by-step guide on how to safely store your c
 
 Materials Needed:
 
-2 USB sticks
-A computer (without internet connection)
-Printer
-3 envelopes
-Ink pen
-Steps:
+* 2 USB sticks
+* A computer (without internet connection)
+* Printer
+* 3 envelopes
+* Ink pen
+## Steps:
 
 # 1. Download BIP39 Repository:
 
